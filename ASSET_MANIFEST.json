@@ -1,0 +1,23 @@
+{
+  "portfolio": "Riddhi Arora",
+  "files": [
+    "index.html",
+    "README.txt",
+    "script.js",
+    "style.css",
+    "assets/favicon.svg",
+    "assets/images/profile-riddhi.jpg",
+    "assets/images/certificate-zonal-basketball.png",
+    "assets/images/certificate-dda-basketball.png",
+    "assets/images/certificate-maths-olympiad-class12.png",
+    "assets/images/certificate-english-olympiad-class11.png",
+    "assets/images/certificate-maths-olympiad-participation.png",
+    "assets/images/certificate-science-olympiad-class11.png",
+    "assets/images/science-exhibition-trophy.png",
+    "assets/images/certificate-science-olympiad-class12.png",
+    "assets/images/certificate-english-olympiad-class12.png",
+    "assets/images/certificate-html-ai.png"
+  ],
+  "certificate_images": 9,
+  "profile_photo": "assets/images/profile-riddhi.jpg"
+}
